@@ -1,9 +1,9 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
- "auto-night-skip": "false",
- "token": "Your_discord_bot_token_here",
- "channelid": "Your_discord_server_channel_id_here",
- "loginmsg": "Your_Login_message_here"
+ "ip": "MOURID.aternos.me:55080",
+ "port": "55080",
+ "name": "OBT",
+ "auto-night-skip": "true",
+ "token": "OTAwNDg2OTEzMjcyNzM3ODMz.YZLGKA.5aRj88JmrDXr5upsZdH7R5rc0bg",
+ "channelid": "906883147147378718",
+ "loginmsg": "hello"
 }
