@@ -1,9 +1,9 @@
 {
- "ip": "MOURID.aternos.me:55080",
- "port": "55080",
+ "ip": "MOURID1.aternos.me:47973",
+ "port": "47973",
  "name": "BOT",
  "auto-night-skip": "true",
- "token": "OTAwNDg2OTEzMjcyNzM3ODMz.YZOqiA.XGvLK1ud_PzTh784oESxQRfzuF8",
- "channelid": "906883147147378718",
+ "token": "OTEwOTQ1MzMyNDY3MjMyNzc5.YZaN8w.zZEIzBxsXadSwSd9jDEaMCvi748",
+ "channelid": "910938851583868979",
  "loginmsg": "hello"
 }
